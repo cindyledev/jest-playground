@@ -1,4 +1,6 @@
 # Jest playground
+
+## YouTube video to accompany this repo https://www.youtube.com/watch?v=NHMIn723hQY
 ```
 import pizzas from '../data';
 
